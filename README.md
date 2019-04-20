@@ -1,10 +1,10 @@
 # L&S 88 - Final Project Team 3 - Most Common Name
 
-_Kai Chen, _
+_Kai Chen, Jamie Xie, Jae Eu_
 
 [![Binder](https://mybinder.org/badge_logo.svg)]
 
-This project for L&S 88 attempts to recreate the analysis 
+This project for L&S 88 attempts to recreate the analysis of the article, Dear Mona, What's The Most Common Name in America?. 
 
 ## Directory Structure
 
