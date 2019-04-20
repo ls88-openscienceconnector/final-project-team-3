@@ -9,8 +9,12 @@ We are doing a study on an article named "Dear Mona, What's the Most Common Name
   * R - 
   
 # What is the provenance and collection method of the data?
-
+  *
 # What are the hypotheses of the project?
+  *
 # What are the research methods?
+  *
 # What license is available?
+  *
 # Can you open the project files?
+  *
