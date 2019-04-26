@@ -1,6 +1,6 @@
 # L&S 88 - Final Project Team 3 - Most Common Name
 
-_Kai Chen, Jamie Xie, Jae Eu_
+_Jamie Xie, Jae Eu, Kai Chen_
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ls88-openscienceconnector/final-project-team-3.git/master)
 
