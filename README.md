@@ -4,7 +4,7 @@ _Kai Chen, Jamie Xie, Jae Eu_
 
 [![Binder](https://mybinder.org/badge_logo.svg)]
 
-This project for L&S 88 attempts to recreate the analysis of from the Five-Thirty-Eight article, Dear Mona, What's The Most Common Name in America? The purpose of this project is to attempt to reproduce the findings in the article regarding the most common first and last name combinations in the U.S as of 2013. For more detailed information, see our Pre-Analysis Plan. 
+This project for L&S 88 attempts to recreate the analysis of from the Five-Thirty-Eight article, Dear Mona, What's The Most Common Name in America? The purpose of this project is to attempt to reproduce the findings in the article regarding the most common first and last name combinations in the U.S as of 2013. For more detailed information, see our [Pre-Analysis Plan](notebooks/pre-analysis-plan.ipynb).
 
 ## Directory Structure
 
@@ -17,10 +17,6 @@ This repo contains a few subfolders which contain the elements of this project.
 | `notebooks`  | Jupyter Notebook files, including reproduction analysis using both `pandas` and `datascience`, as well as the Pre-Analysis Plan and a "blank" notebook  |
 | `output`  | output data (same as original, for demo purposes) in CSV and TSV format  |
 | `subassignments`  | Markdown files with submissions for final project sub-assignments  |
-
-## Final Project Details
-
-Your repo should contain _all_ of the folders listed above, and they should contain the appropriate files (e.g. the notebook with your analysis goes into the `notebooks` folder).
 
 ### Pre-Analysis Plan
 
