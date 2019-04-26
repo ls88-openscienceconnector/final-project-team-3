@@ -2,7 +2,7 @@
 
 _Kai Chen, Jamie Xie, Jae Eu_
 
-[![Binder](https://mybinder.org/badge_logo.svg)]
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ls88-openscienceconnector/final-project-team-3.git/master)
 
 This project for L&S 88 attempts to recreate the analysis of from the Five-Thirty-Eight article, Dear Mona, What's The Most Common Name in America? The purpose of this project is to attempt to reproduce the findings in the article regarding the most common first and last name combinations in the U.S as of 2013. For more detailed information, see our [Pre-Analysis Plan](notebooks/pre-analysis-plan.ipynb).
 
