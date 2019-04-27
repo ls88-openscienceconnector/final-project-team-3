@@ -1,6 +1,6 @@
 # Data
 
-This directory contains the code and data behind the story [Dear Mona, What’s The Most Common Name In America?](http://fivethirtyeight.com/features/whats-the-most-common-name-in-america/)
+This directory contains the data for the reproduced analysis from the story [Dear Mona, What’s The Most Common Name In America?](http://fivethirtyeight.com/features/whats-the-most-common-name-in-america/)
 
 There are four input files that the original analysis used:
 
