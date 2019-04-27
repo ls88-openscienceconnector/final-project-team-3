@@ -17,3 +17,14 @@ This repo contains a few subfolders which contain the elements of this project.
 | `notebooks`  | Jupyter Notebook files, including reproduction analysis using both `pandas` and `datascience`, as well as the Pre-Analysis Plan and a "blank" notebook  |
 | `output`  | output data (same as original, for demo purposes) in CSV and TSV format  |
 | `subassignments`  | Markdown files with submissions for final project sub-assignments  |
+
+## Sources
+
+Chalabi, Mona and Flowers, Andrew. Dear Mona, What’s The Most Common Name In America? FiveThirtyEight. 2013
+https://fivethirtyeight.com/features/whats-the-most-common-name-in-america/
+
+FiveThirtyEight. Most Common Name. 
+https://github.com/fivethirtyeight/data.git
+
+Popular Baby Names. Social Security Administration.
+https://www.ssa.gov/oact/babynames/limits.html
