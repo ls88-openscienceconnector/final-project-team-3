@@ -1,17 +1,15 @@
-# Most Common Name
+# Data
 
 This directory contains the code and data behind the story [Dear Mona, What’s The Most Common Name In America?](http://fivethirtyeight.com/features/whats-the-most-common-name-in-america/)
 
-The main script file is `most-common-name.R`
-
-There are four input files:
+There are four input files that the original analysis used:
 
  * `state-pop.csv` - Total population and Hispanic population by state. 
  * `surnames.csv` - Data on surnames from the U.S. Census Bureau, including a breakdown by race/ethnicity. 
  * `aging-curve.csv` - Data from the Social Security Administration on the chances that someone born in the decade shown was still alive in 2013: http://www.ssa.gov/oact/NOTES/as120/LifeTables_Tbl_7.html
  * `adjustments.csv` - Taken directly from Lee Hartman's article: http://mypage.siu.edu/lhartman/johnsmith.html.
 
-And five output files:
+There are also five output files that the original analysis provided:
 
 * `adjusted-name-combinations-list.csv` - Adjusted estimates for the most common full names. 
 * `adjusted-name-combinations-matrix.csv` - The same data from the file `adjusted-name-combinations-list.csv` but in matrix form. These are the estimates presented in the second (and final) table of the article.
@@ -19,3 +17,6 @@ And five output files:
 * `new-top-firstNames.csv` - Final estimated ranking of top first names.
 * `new-top-surnames.csv` - Final estimated ranking of top surnames.
 
+We also included our own table of the first name data from the SSA, which wasn't provided as an input file, but the data was used in the original analysis:
+
+* `data1910-2020.csv` - First name baby names from the SSA from each decade.
