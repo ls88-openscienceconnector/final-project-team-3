@@ -1,6 +1,6 @@
 # Step 1 Assignment
 
-We are doing a study on an article named "Dear Mona, What's the Most Common Name in America?". It is hosted on the FiveThirtyEight website and written by Mona Chalabi and Andrew Flowers with data on Github.
+We are doing a performing a reproduction analysis from an article titled "Dear Mona, What's the Most Common Name in America?" This article described the methodology for finding the most common first and last name combination in the U.S in 2013. It is hosted on the FiveThirtyEight website and was written by Mona Chalabi and Andrew Flowers. The data from the original analysis can be found this Github repository: [Github repository](https://github.com/fivethirtyeight/data.git)
 
 # What is the quality (you can use F.A.I.R) of the information?
   * F - The data was definitely easy to find. We were able to find an article with graphs and additional information in terms of footnotes. We were also able to find the csv files through github with all the information and readMe.
