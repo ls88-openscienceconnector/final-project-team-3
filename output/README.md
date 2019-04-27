@@ -1,5 +1,3 @@
 # Output
 
-This folder contains output from this project. The CSV and TSV files contained herein are the original data set, and are included here for the purpose of demonstrating how to export data.
-
-If you have a graphics file that visualizes the data, save it here as a png for importing into your presentation
+We did not have any output data files. Our presentation slides for the project can be found [here.](https://docs.google.com/presentation/d/1_OINsFeCfIXgvjQxx1gMbO7o_RjCYmk4qCCY18eMrKg/edit?usp=sharing)
