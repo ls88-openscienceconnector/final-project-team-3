@@ -17,6 +17,6 @@ There are also five output files that the original analysis provided:
 * `new-top-firstNames.csv` - Final estimated ranking of top first names.
 * `new-top-surnames.csv` - Final estimated ranking of top surnames.
 
-We also included our own table of the first name data from the SSA, which wasn't provided as an input file, but the data was used in the original analysis:
+We also included first name data from the SSA for the top 100 baby names for each decade from 1910-2010. These weren't provided as an input files, but the data was used in the original analysis as well as our reproduced analysis:
 
-* `data1910-2020.csv` - First name baby names from the SSA from each decade.
+* `data1910-2020.csv` - Combined table of first name baby names from the SSA from each decade.
